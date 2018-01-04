@@ -13,9 +13,7 @@ This mini project is used to run unittest automatically.
 ## Instruction:
   1. Copy test folder into main project.
   2. Using command:
-  
     ```bash
     coverage run --source=./ test/__init__.py
-    
     coverage html -d htmlcov
     ```
